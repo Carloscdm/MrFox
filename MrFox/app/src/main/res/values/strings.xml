@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MrFox</string>
+    <string name="idfoto_splash">Photo by Filip Zrnzevic on Unsplash</string>
+    <string name="idfoto_login">Photo by bobby hendry on Unsplash</string>
+    <string name="usuario">Usuario</string>
+    <string name="cont">Contraseña</string>
+    <string name="sign">sing up</string>
+    <string name="titulo">“MrFox”</string>
+    <string name="subtitle">zorros</string>
+    <string name="textoAccount">Crear una cuenta</string>
+    <string name="titulosplash">Mr.Fox</string>
+    <string name="Unistall">Unistall</string>
+    <string name="Update">Update</string>
+    <string name="texto">El Fondo de Emprendedores de Fundación Repsol lanza, por séptimo año consecutivo, una convocatoria para startups que trabajan en el campo de la industria energética, la movilidad avanzada, la economía circular y nuevos materiales para la industria energética y química. Los interesados ya pueden presentar sus proyectos y optar al apoyo del Fondo de Emprendedores.</string>
+</resources>
